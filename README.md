@@ -19,4 +19,4 @@
 
 ## Contribute
 
-Feel free to [open a Pull-request](https://github.com/pcreux/test-gh-pages) to improve this page.
+Feel free to [open a Pull Request](https://github.com/pcreux/test-gh-pages) to improve this page.
