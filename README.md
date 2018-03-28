@@ -1,5 +1,3 @@
-Here are many ways to engage with the Vancouver Tech Community.
-
 ## Slack Groups
 
 * YVRDev - [Request an invite](http://yvrdev.com)
