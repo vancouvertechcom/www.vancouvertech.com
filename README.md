@@ -18,3 +18,7 @@ Here are many ways to engage with the Vancouver Tech Community.
 ## Other initiatives
 
 * [Vancouver Tech Podcasts](http://www.vancouvertechpodcast.ca/)
+
+## Contribute
+
+Feel free to [open a Pull-request](https://github.com/pcreux/test-gh-pages) to improve this page.
