@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Vancouver Tech
+description: A curated list of ways to get in touch with the Vancouver Tech Community
 github:
   is_project_page: false
