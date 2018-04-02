@@ -1,12 +1,8 @@
-## Slack Groups
+## Chats & Forums
 
-* YVRDev - [Request an invite](http://yvrdev.com)
-* Lean Agile
-* Product in Vancouver
-
-## Forums
-
-* [YVR Dev Discourse Forum](https://community.vancouvertech.com)
+* YVRDev Slack Group - [Request an invite](http://yvrdev.com)
+* Product in Vancouver Slack Group – Reach out to a Product Manager in town to get an invite
+* [Vancouver Tech Community Forum](https://community.vancouvertech.com)
 
 ## Meetups
 
