@@ -17,6 +17,16 @@
 
 * [Techstars Startup Digest Vancouver](https://www.startupdigest.com/digests/vancouver)
 
+## High Profile Tech Conferences
+
+* [#BCTECH Summit, May 14 –16, 2018](https://bctechsummit.ca/)
+* [Traction Conf, Aug 8-9, 2018](https://www.tractionconf.io/)
+
+## Jobs
+
+* [AngeList job postings](https://angel.co/vancouver/jobs)
+* [Techvibes job postings](https://jobs.techvibes.com/)
+
 ## Other initiatives
 
 * [Vancouver Tech Podcasts](http://www.vancouvertechpodcast.ca/)
