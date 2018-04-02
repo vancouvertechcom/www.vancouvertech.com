@@ -6,7 +6,7 @@
 
 ## Meetups
 
-* Look up [Vancouver Tech Meetup Groups]((https://www.meetup.com/find/tech/?allMeetups=false&radius=50&userFreeform=Vancouver%2C+BC&mcId=z867442&mcName=Vancouver%2C+British+Columbia%2C+CA&sort=default&eventFilter=mysugg))
+* Look up [Vancouver Tech Meetup Groups](https://www.meetup.com/find/tech/?allMeetups=false&radius=50&userFreeform=Vancouver%2C+BC&mcId=z867442&mcName=Vancouver%2C+British+Columbia%2C+CA&sort=default&eventFilter=mysugg))
 * Look up [Upcoming Vancouver Tech Meetups](https://www.meetup.com/find/events/tech/?allMeetups=false&radius=50&userFreeform=Vancouver%2C+BC&mcId=z867442&mcName=Vancouver%2C+British+Columbia%2C+CA&eventFilter=mysugg)
 
 ## Events
