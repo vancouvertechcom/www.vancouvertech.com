@@ -1,12 +1,12 @@
 ## Chats & Forums
 
-* YVRDev Slack Group - [Request an invite](http://yvrdev.com)
-* Product in Vancouver Slack Group – Reach out to a Product Manager in town to get an invite
+* [YVRDev Slack Group](http://yvrdev.com)
 * [Vancouver Tech Community Forum](https://community.vancouvertech.com)
+* Product in Vancouver Slack Group: _Reach out to a Product Manager in town to get an invite_
 
 ## Meetups
 
-* Look up [Vancouver Tech Meetup Groups](https://www.meetup.com/find/tech/?allMeetups=false&radius=50&userFreeform=Vancouver%2C+BC&mcId=z867442&mcName=Vancouver%2C+British+Columbia%2C+CA&sort=default&eventFilter=mysugg))
+* Look up [Vancouver Tech Meetup Groups](https://www.meetup.com/find/tech/?allMeetups=false&radius=50&userFreeform=Vancouver%2C+BC&mcId=z867442&mcName=Vancouver%2C+British+Columbia%2C+CA&sort=default&eventFilter=mysugg)
 * Look up [Upcoming Vancouver Tech Meetups](https://www.meetup.com/find/events/tech/?allMeetups=false&radius=50&userFreeform=Vancouver%2C+BC&mcId=z867442&mcName=Vancouver%2C+British+Columbia%2C+CA&eventFilter=mysugg)
 
 ## Events
