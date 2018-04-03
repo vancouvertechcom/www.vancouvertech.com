@@ -25,7 +25,7 @@
 
 ## Other initiatives
 
-* [Vancouver Tech Podcasts](http://www.vancouvertechpodcast.ca/)
+* The [Vancouver Tech Podcast](http://www.vancouvertechpodcast.ca/)
 
 ## Contribute
 
