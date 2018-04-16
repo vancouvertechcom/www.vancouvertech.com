@@ -17,6 +17,7 @@
 
 * [#BCTECH Summit, May 14 –16, 2018](https://bctechsummit.ca/)
 * [Traction Conf, Aug 8-9, 2018](https://www.tractionconf.io/)
+* [JS Interactive, Oct 10-12, 2018](https://events.linuxfoundation.org/events/js-interactive-2018/)
 
 ## Jobs
 
