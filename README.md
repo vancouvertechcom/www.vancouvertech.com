@@ -15,7 +15,8 @@
 
 ## High Profile Tech Conferences
 
-* [#BCTECH Summit, May 14 –16, 2018](https://bctechsummit.ca/)
+* [Devopsdays Vancouver, April 20-21, 2018](https://www.devopsdays.org/events/2018-vancouver/welcome/)
+* [#BCTECH Summit, May 14–16, 2018](https://bctechsummit.ca/)
 * [7th annual Polyglot Unconference, May 26, 2018](http://www.polyglotconf.com/)
 * [Traction Conf, Aug 8-9, 2018](https://www.tractionconf.io/)
 * [JS Interactive, Oct 10-12, 2018](https://events.linuxfoundation.org/events/js-interactive-2018/)
