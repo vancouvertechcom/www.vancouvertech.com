@@ -23,7 +23,7 @@
 
 ## Jobs
 
-* [AngeList job postings](https://angel.co/vancouver/jobs)
+* [AngelList job postings](https://angel.co/vancouver/jobs)
 * [Techvibes job postings](https://jobs.techvibes.com/)
 
 ## Other initiatives
