@@ -20,6 +20,7 @@
 * [7th annual Polyglot Unconference, May 26, 2018](http://www.polyglotconf.com/)
 * [Traction Conf, Aug 8-9, 2018](https://www.tractionconf.io/)
 * [JS Interactive, Oct 10-12, 2018](https://events.linuxfoundation.org/events/js-interactive-2018/)
+* [The Linux Kernel Summit, Nov 13-15, 2018](https://events.linuxfoundation.org/events/linux-kernel-summit-2018/)
 
 ## Jobs
 
