@@ -15,12 +15,12 @@
 
 ## High Profile Tech Conferences
 
-* [Devopsdays Vancouver, April 20-21, 2018](https://www.devopsdays.org/events/2018-vancouver/welcome/)
-* [#BCTECH Summit, May 14–16, 2018](https://bctechsummit.ca/)
 * [7th annual Polyglot Unconference, May 26, 2018](http://www.polyglotconf.com/)
-* [Traction Conf, Aug 8-9, 2018](https://www.tractionconf.io/)
 * [JS Interactive, Oct 10-12, 2018](https://events.linuxfoundation.org/events/js-interactive-2018/)
 * [The Linux Kernel Summit, Nov 13-15, 2018](https://events.linuxfoundation.org/events/linux-kernel-summit-2018/)
+* [#BCTECH Summit, March 11-13, 2019](https://bctechsummit.ca/)
+* [Devopsdays Vancouver, March 29-30, 2019](https://www.devopsdays.org/events/2019-vancouver/welcome/)
+* [Traction Conf, Aug 7-8, 2019](https://www.tractionconf.io/)
 
 ## Jobs
 
