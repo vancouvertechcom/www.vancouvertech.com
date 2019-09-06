@@ -12,6 +12,7 @@
 ## Events
 
 * [Techstars Startup Digest Vancouver](https://www.startupdigest.com/digests/vancouver)
+* [TechVancouver](https://www.techvancouver.org/)
 
 ## High Profile Tech Conferences
 
@@ -21,11 +22,19 @@
 * [#BCTECH Summit, March 11-13, 2019](https://bctechsummit.ca/)
 * [Devopsdays Vancouver, March 29-30, 2019](https://www.devopsdays.org/events/2019-vancouver/welcome/)
 * [Traction Conf, Aug 7-8, 2019](https://www.tractionconf.io/)
+* [Call to Action Conference, September 25-26, 2019](https://calltoactionconference.unbounce.com/)
 
 ## Jobs
 
 * [AngelList job postings](https://angel.co/vancouver/jobs)
 * [Techvibes job postings](https://jobs.techvibes.com/)
+
+## Media
+* [Techcouver](https://techcouver.com)
+* [Georgia Straight](https://www.straight.com)
+* [Daily Hive](https://dailyhive.com)
+* [Business in Vancouver](https://biv.com)
+* [BetaKit](https://betakit.com)
 
 ## Other initiatives
 
