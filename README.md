@@ -21,8 +21,8 @@
 * [The Linux Kernel Summit, Nov 13-15, 2018](https://events.linuxfoundation.org/events/linux-kernel-summit-2018/)
 * [#BCTECH Summit, March 11-13, 2019](https://bctechsummit.ca/)
 * [Devopsdays Vancouver, March 29-30, 2019](https://www.devopsdays.org/events/2019-vancouver/welcome/)
-* [Traction Conf, Aug 7-8, 2019](https://www.tractionconf.io/)
 * [Call to Action Conference, September 25-26, 2019](https://calltoactionconference.unbounce.com/)
+* [Traction Conf, Aug 5-6, 2020](https://www.tractionconf.io/)
 
 ## Jobs
 
