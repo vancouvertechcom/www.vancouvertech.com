@@ -16,12 +16,7 @@
 
 ## High Profile Tech Conferences
 
-* [7th annual Polyglot Unconference, May 26, 2018](http://www.polyglotconf.com/)
-* [JS Interactive, Oct 10-12, 2018](https://events.linuxfoundation.org/events/js-interactive-2018/)
-* [The Linux Kernel Summit, Nov 13-15, 2018](https://events.linuxfoundation.org/events/linux-kernel-summit-2018/)
-* [#BCTECH Summit, March 11-13, 2019](https://bctechsummit.ca/)
-* [Devopsdays Vancouver, March 29-30, 2019](https://www.devopsdays.org/events/2019-vancouver/welcome/)
-* [Call to Action Conference, September 25-26, 2019](https://calltoactionconference.unbounce.com/)
+* [TED2020, July 26-30, 2020](https://ted2020.ted.com/)
 * [Traction Conf, Aug 5-6, 2020](https://www.tractionconf.io/)
 
 ## Jobs
